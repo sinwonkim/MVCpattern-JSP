@@ -27,8 +27,10 @@ MVC에서 view와 controller가 같이 있는 형태
 Model 2 
 MVC에서 model,view,controoler가 모두 모듈화 되어 있는 형태 
 
-
-
+클라이언트   -> controller    - > command   -> Dao   -> Database
+(웹 브라우저)       -
+                   -
+                Jsp(view)
 
 
 
